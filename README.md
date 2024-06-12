@@ -14,9 +14,7 @@ Generative AI, particularly Large Language Models (LLMs), has transformed variou
 - Select model and install using command `ollama run <model_name>​` in your terminal window
 ##### Creating a Custom model 
 - List Available Models: `ollama list`
-- Create Model from Model File: ​
-    - `ollama create astrophysicist -f ollama/modelfile_astrophysicist​`
-  - Run Model File:​
-    - `ollama run astrophysicist​`
+- Create Model from Model File: ​`ollama create astrophysicist -f ollama/modelfile_astrophysicist​`
+- Run Model File:​ `ollama run astrophysicist​`
 ​
 
