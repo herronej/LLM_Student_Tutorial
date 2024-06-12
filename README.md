@@ -17,5 +17,10 @@ Generative AI, particularly Large Language Models (LLMs), has transformed variou
 - Open and edit model file to customize: ​`vim ollama/modelfile_astrophysicist​` 
 - Create model from model file: ​`ollama create astrophysicist -f ollama/modelfile_astrophysicist​`
 - Run model file:​ `ollama run astrophysicist​`
+##### Test Models With Example Prompts
+- "What is gravity?"​
+- "Describe this image: example_files/attention.png"​
+- "Summarize this paper: example_files/KAN.pdf"​
+- "Write a Python function to find the n-th Fibonacci number."​
 ​
 
