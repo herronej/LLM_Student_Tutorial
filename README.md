@@ -8,18 +8,15 @@ Generative AI, particularly Large Language Models (LLMs), has transformed variou
 
 #### Ollama Tutorial
 - Ollama is an open-source platform that offers a user interface for installing and running popular open source LLMs locally​
-- To download and install Ollama, follow instructions at ollama.com
+- To download and install Ollama, follow instructions on Ollama's [website](ollama.com)
 ##### Installing Models
-- View all models at ollama.com/library
+- View all models [here](ollama.com/library) 
 - Select model and install using command `ollama run <model_name>​` in your terminal window
 ##### Creating a Custom model 
 - List Available Models: `ollama list`
-- Create Custom Model​
-  - Create Model File: ​
-    - vim modelfile_astrophysicist​
-  - Create Model from Model File: ​
-    - ollama create astrophysicist -f modelfile_astrophysicist​
+- Create Model from Model File: ​
+    - `ollama create astrophysicist -f ollama/modelfile_astrophysicist​`
   - Run Model File:​
-    - ollama run astrophysicist​
+    - `ollama run astrophysicist​`
 ​
 
