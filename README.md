@@ -1,4 +1,4 @@
-![Generative Natural Language Processing](https://raw.githubusercontent.com/herronej/LLM_Student_Tutorial/main/ollama/example_files/ce2f9b8c-0f77-4832-bc28-72c849165fc2.webp)
+<img src="https://github.com/your-username/your-repository/blob/main/path-to-image.png](https://raw.githubusercontent.com/herronej/LLM_Student_Tutorial/main/ollama/example_files/ce2f9b8c-0f77-4832-bc28-72c849165fc2.webp" alt="Generative Natural Language Processing" width="300">
 
 # Generative Natural Language Processing Primer: Riding the Journey to Large Language Models
 ## An AI for Science Tutorial for Summer Students Organized by ORNL’s AI Initiative
