@@ -8,7 +8,7 @@ Generative AI, particularly Large Language Models (LLMs), has transformed variou
 
 ### Ollama Tutorial
 - Ollama is an open-source platform that offers a user interface for installing and running popular open source LLMs locally​
-- To download and install Ollama, follow instructions on Ollama's [website]([www.ollama.com](https://ollama.com/))
+- To download and install Ollama, follow instructions on Ollama's [website](https://ollama.com/)
 #### Installing Models
 - View all models [here](https://ollama.com/library) 
 - Select model and install using command `ollama run <model_name>​` in your terminal window
