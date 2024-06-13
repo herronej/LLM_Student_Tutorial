@@ -19,8 +19,8 @@ Generative AI, particularly Large Language Models (LLMs), has transformed variou
 - Run model file:​ `ollama run astrophysicist​`
 #### Test Models With Example Prompts
 - "What is gravity?"​
-- "Describe this image: example_files/attention.png"​
-- "Summarize this paper: example_files/KAN.pdf"​
+- "Describe this image: ollama/example_files/attention.png"​
+- "Summarize this paper: ollama/example_files/KAN.pdf"​
 - "Write a Python function to find the n-th Fibonacci number."​
 ​
 
